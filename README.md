@@ -1,2 +1,2 @@
-# e-commerce
+# e-commerce-frontend
 Created with CodeSandbox
